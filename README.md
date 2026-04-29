@@ -23,7 +23,7 @@ While making this project I learned about intermixing JavaScript HTML and Java, 
 
 Ticket Report System - The challenge I set out with this project was to not only make an ticket report system that the school could use, but also to learn to work with others and use an agile methodology.
 I worked on this project because I wanted to know what it was like to work with a team from both the project management and developer side.
-When working on this project I used an agile methodology and worked with others in two week sprints to build and examine multiple factors of a ticket reporting system.
+When working on this project I used an agile methodology and worked with others in two week sprints to build and examine multiple factors of a ticket reporting system. I built the system for creating a help desk ticket, viewing a list of open help desk tickets, viewing ticket details, and the ability to update ticket status'.
 I think during this project as I was able to complete all my agile sprints a reasonable time and was able to review them and really get a feel for what it was like to build a project in a group.
 While working on this project I learned how to work together on a team and how to use agile methodology, I also learned a lot of what it's like to manage another person in a project by acting as a scrum master, writing up user stories and acceptance criteria for each sprint.
 
